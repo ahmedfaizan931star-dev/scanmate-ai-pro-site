@@ -1,26 +1,32 @@
-# ScanMate AI Pro Site v2
+# ScanMate AI Pro Site v3 Clean
 
-This package contains a cleaner GitHub Pages site for ScanMate AI Pro.
-
-## Files
-- `index.html` — redesigned landing page
-- `privacy.html` — careful privacy policy
-- `terms.html` — terms of service
-- `support.html` — support page
-- `data-safety.html` — data safety summary
-- `delete-data.html` — local data deletion guide
-
-## Deploy
 Upload these files to the root of the `scanmate-ai-pro-site` GitHub repository.
 
-Then go to:
-Settings → Pages → Deploy from a branch → main → /root → Save
+## Required structure
 
-Useful URLs:
-- Home: https://ahmedfaizan931star-dev.github.io/scanmate-ai-pro-site/
-- Privacy: https://ahmedfaizan931star-dev.github.io/scanmate-ai-pro-site/privacy.html
-- Terms: https://ahmedfaizan931star-dev.github.io/scanmate-ai-pro-site/terms.html
-- Support: https://ahmedfaizan931star-dev.github.io/scanmate-ai-pro-site/support.html
+```text
+index.html
+privacy.html
+terms.html
+support.html
+data-safety.html
+delete-data.html
+assets/style.css
+.nojekyll
+robots.txt
+sitemap.xml
+```
 
-For Google Play Console privacy policy field, use:
+## GitHub Pages settings
+
+Settings → Pages → Deploy from a branch → main → /root → Save.
+
+## Play Console privacy policy URL
+
+```text
 https://ahmedfaizan931star-dev.github.io/scanmate-ai-pro-site/privacy.html
+```
+
+## Notes
+
+This version uses smaller font weights, cleaner spacing, a lighter theme, and more natural wording. It avoids unverifiable claims such as “zero telemetry forever,” “military-grade,” or guaranteed performance numbers.

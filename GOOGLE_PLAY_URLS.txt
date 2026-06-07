@@ -1,19 +1,17 @@
-ScanMate AI Pro — Google Play URLs
-
 Landing page:
 https://ahmedfaizan931star-dev.github.io/scanmate-ai-pro-site/
 
-Privacy Policy URL for Play Console:
+Privacy Policy:
 https://ahmedfaizan931star-dev.github.io/scanmate-ai-pro-site/privacy.html
 
-Terms of Service:
+Terms:
 https://ahmedfaizan931star-dev.github.io/scanmate-ai-pro-site/terms.html
 
-Support URL:
+Support:
 https://ahmedfaizan931star-dev.github.io/scanmate-ai-pro-site/support.html
 
-Data Safety Summary:
+Data Safety:
 https://ahmedfaizan931star-dev.github.io/scanmate-ai-pro-site/data-safety.html
 
-Delete Local Data:
+Delete Data:
 https://ahmedfaizan931star-dev.github.io/scanmate-ai-pro-site/delete-data.html
