@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ahmedfaizan931star-dev.github.io/scanmate-ai-pro-site/sitemap.xml
